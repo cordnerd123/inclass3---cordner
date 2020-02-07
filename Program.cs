@@ -12,7 +12,7 @@ namespace inclass3___cordner
             Car mycar2 = new Car();
             Console.WriteLine(mycar1.Color);
             Console.WriteLine(mycar2.Color);
-            Console.WriteLine(mycar1.FullThrottle);
+            Console.WriteLine(mycar1.FullThrottle());
 
         }
     }
